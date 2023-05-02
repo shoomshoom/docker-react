@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-         Learn React! React would've been useful early in my career.
+         Learn React!And CI/CD!  React would've been useful early in my career.
         </a>
       </header>
     </div>
