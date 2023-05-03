@@ -37,3 +37,9 @@ test('renders learn react link 6! In action!', () => {
   const linkElement = screen.getByText(/learn react/i);
   expect(linkElement).toBeInTheDocument();
 });
+
+test('Thi sshould kick off the Travis CI pipeline', () => {
+  render(<App />);
+  const linkElement = screen.getByText(/learn react/i);
+  expect(linkElement).toBeInTheDocument();
+});
